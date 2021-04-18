@@ -6,5 +6,5 @@ Here the source codes related to the article: https://aurixocd.blogspot.com/2021
 
 <h3> What to do</h3>
 
-Download the sources and compile it by MS Visual Studio 2012 professional or higher. Or, just download the ZIP including the "mcd_demo_basic.exe" (in the Release directory)
+Download the sources and compile it by MS Visual Studio 2012 professional or higher. Or, just download the ZIP including the "mcd_demo_basic.exe" (in the Release directory). You will experience a basic On Chip Debugger DOS application (command line only) for AURIX.
 
