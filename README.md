@@ -1,4 +1,4 @@
-<h1> AURIX ocd</h1>
+<h1> AURIX™ocd</h1>
 
 On Chip Debugger application for AURIX
 
