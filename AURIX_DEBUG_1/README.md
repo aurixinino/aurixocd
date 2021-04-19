@@ -18,7 +18,6 @@ Here the source codes related to the article: https://aurixocd.blogspot.com/2021
   <li>Write 8 bit word:     w8 <addr> <value> </li>
   <li>Set IP breakpoint:    bpt <addr> </li>
   <li>Clear IP breakpoint:  bpt</li>
-  <li>Query state:          s</li>
   <li>Access HW frequency:  frequ <f_hz></li>
   <li>Exit:                 exit</li>
 </ul>
