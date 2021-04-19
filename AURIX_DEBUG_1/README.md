@@ -1,0 +1,10 @@
+<h1> AURIX™ocd </h1>
+
+<h2>Let's build our own On Chip Debugger application - STEP 1 </h2>
+
+Here the source codes related to the article: https://aurixocd.blogspot.com/2021/04/lets-build-our-own-on-chip-debugger_18.html
+
+<h3> What to do</h3>
+
+Download the sources and compile it by MS Visual Studio 2012 professional or higher. Or, just download the ZIP including the "Aurixocd.exe" (in the Release directory). You will experience a basic On Chip Debugger DOS application (command line only) for AURIX.
+
