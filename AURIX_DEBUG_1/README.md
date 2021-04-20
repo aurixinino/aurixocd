@@ -4,14 +4,13 @@
 
 Here the source codes related to the article: https://aurixocd.blogspot.com/2021/04/lets-build-our-own-on-chip-debugger_18.html
 
-<h3> Tool Command Line Interface </h3>
+<h3> Tool User Interface </h3>
 <ul>
   <li>Control core:         run, stop, step <steps> </li>
   <li>Reset (and Halt):     rst, rsthlt </li>
   <li>Read 32 bit word:     read <addr> </li>
   <li>Dump memory:          dump <addr> <n_bytes> </li>
   <li>ASCII viewer:         ascii <addr> <n_bytes> </li>
-  <li>Read N bytes:         read <addr> <n_bytes> </li>
   <li>Read 8 bit word:      r8 <addr> </li>
   <li>Seek in memory:       seek <addr> <value> <size> </li>
   <li>Write 32 bit word:    write <addr> <value> </li>
@@ -26,3 +25,6 @@ Here the source codes related to the article: https://aurixocd.blogspot.com/2021
 
 Download the sources and compile it by MS Visual Studio 2012 professional or higher. Or, just download the ZIP including the "Aurixocd.exe" (in the Release directory). You will experience a basic On Chip Debugger DOS application (command line only) for AURIX.
 
+<h3> Installation Guideline </h3>
+Please be aware that you need to install DAS before being able to use the AURIX™ocd tool. Download it at https://www.infineon.com/DAS.
+Then you must have an AURIX™ board, as available: https://www.infineon.com/cms/en/product/microcontroller/32-bit-tricore-microcontroller/?redirId=41544#!boards
