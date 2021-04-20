@@ -8,3 +8,5 @@ Here the source codes related to the article: https://aurixocd.blogspot.com/2021
 
 Download the sources and compile it by MS Visual Studio 2012 professional or higher. Or, just download the ZIP including the "mcd_demo_basic.exe" (in the Release directory). You will experience a basic On Chip Debugger DOS application (command line only) for AURIX.
 
+DAS Installation Guideline
+Please be aware that you need to install DAS before being able to use the AURIX™ocd tool. Download it at https://www.infineon.com/DAS. Then you must have an AURIX™ board, as available: https://www.infineon.com/cms/en/product/microcontroller/32-bit-tricore-microcontroller/?redirId=41544#!boards
