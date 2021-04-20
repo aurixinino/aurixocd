@@ -8,11 +8,11 @@ Here the source codes related to the article: https://aurixocd.blogspot.com/2021
 <ul>
   <li>Control core:         run, stop, step <steps> </li>
   <li>Reset (and Halt):     rst, rsthlt </li>
-  <li>Read 32 bit word:     read <addr> </li>
   <li>Dump memory:          dump <addr> <n_bytes> </li>
   <li>ASCII viewer:         ascii <addr> <n_bytes> </li>
-  <li>Read 8 bit word:      r8 <addr> </li>
   <li>Seek in memory:       seek <addr> <value> <size> </li>
+  <li>Read 32 bit word:     read <addr> </li>
+  <li>Read 8 bit word:      r8 <addr> </li>
   <li>Write 32 bit word:    write <addr> <value> </li>
   <li>Write 8 bit word:     w8 <addr> <value> </li>
   <li>Set IP breakpoint:    bpt <addr> </li>
