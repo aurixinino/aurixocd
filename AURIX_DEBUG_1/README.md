@@ -23,10 +23,10 @@ Here the source codes related to the article: https://aurixocd.blogspot.com/2021
 
 <h3> What to do</h3>
 
-Download the sources and compile it by MS Visual Studio 2012 professional or higher. Or, just download the ZIP including the "Aurixocd.exe" (in the Release directory). You will experience a basic On Chip Debugger DOS application (command line only) for AURIX.
+Download the sources and compile it by MS Visual Studio 2012 professional or higher. Or, just download the ZIP including the "Aurixocd.exe" (in the Release directory). You will experience a basic On Chip Debugger DOS application (command line only) for AURIX. Before please ansure to have DAS installed in your PC (see below).
 
 <h4>Syntax</h4>
-from DOS consolle or Window explorer start Aurixocd.exe without options. The debugger interactive interface will be started.
+From DOS consolle or Window explorer start Aurixocd.exe without options. The debugger interactive interface will be started.
 
 <h3> DAS Installation Guideline </h3>
 Please be aware that you need to install DAS before being able to use the AURIX™ocd tool. Download it at https://www.infineon.com/DAS.
