@@ -26,7 +26,7 @@ Here the source codes related to the article: https://aurixocd.blogspot.com/2021
 Download the sources and compile it by MS Visual Studio 2012 professional or higher. Or, just download the ZIP including the "AurixDebugger.exe" (in the Release directory). You will experience a basic On Chip Debugger DOS application (command line only) for AURIX. Before please ansure to have DAS installed in your PC (see below).
 
 <h4>Syntax</h4>
- * From DOS consolle or Window explorer start AurixDebugger.exe without options. The debugger interactive interface will be started. See: https://github.com/aurixinino/aurixocd/wiki/Tool-Interactive-User-Interface
+ * From DOS consolle or Window explorer start AurixDebugger.exe without options. The debugger interactive interface will be started. See: https://github.com/aurixinino/aurixocd/wiki/Tool-Interactive-User-Interface <br>
  * From DOS consolle start AurixDebugger.exe -help. The debugger command line interface help starts. See: https://github.com/aurixinino/aurixocd/wiki/Command-Line-Interface
 
 <h4>Documentation</h4>
