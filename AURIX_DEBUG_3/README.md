@@ -20,7 +20,7 @@ Download the sources and compile it by MS Visual Studio 2012 professional or hig
 See full documentation: https://github.com/aurixinino/aurixocd/wiki
 
 <h3> DAS Installation Guideline </h3>
-Please be aware that you need to install DAS before being able to use the AURIX™ocd tool. Download it at https://www.infineon.com/DAS.
+Please be aware that you need to install DAS before being able to use the AURIX™Debugger tool. Download it at https://www.infineon.com/DAS.
 Then you must have an AURIX™ board, as available: https://www.infineon.com/cms/en/product/microcontroller/32-bit-tricore-microcontroller/?redirId=41544#!boards
 
 I'm currently using a TC275 Lite Kit: https://www.infineon.com/cms/en/product/evaluation-boards/kit_aurix_tc275_lite/
