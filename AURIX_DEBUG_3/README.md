@@ -5,21 +5,8 @@
 Here the source codes related to the article: https://aurixocd.blogspot.com/2021/04/lets-build-our-own-on-chip-debugger_21.html and https://aurixocd.blogspot.com/2021/04/lets-build-our-own-on-chip-debugger_27.html
 
 <h3> Tool Interactive User Interface </h3>
-<ul>
-  <li>Control core:         run, stop, step <steps> </li>
-  <li>Reset (and Halt):     rst, rsthlt </li>
-  <li>Dump memory:          dump <addr> <n_bytes> </li>
-  <li>ASCII viewer:         ascii <addr> <n_bytes> </li>
-  <li>Seek in memory:       seek <addr> <value> <size> </li>
-  <li>Read 32 bit word:     read <addr> </li>
-  <li>Read 8 bit word:      r8 <addr> </li>
-  <li>Write 32 bit word:    write <addr> <value> </li>
-  <li>Write 8 bit word:     w8 <addr> <value> </li>
-  <li>Set IP breakpoint:    bpt <addr> </li>
-  <li>Clear IP breakpoint:  bpt</li>
-  <li>Access HW frequency:  frequ <f_hz></li>
-  <li>Exit:                 exit</li>
-</ul>
+
+See: https://github.com/aurixinino/aurixocd/wiki/Tool-Interactive-User-Interface
 
 <h3> What to do</h3>
 
