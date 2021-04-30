@@ -1,6 +1,6 @@
 <h1> AURIX™ocd </h1>
 
-<h2>Let's build our own On Chip Debugger application - STEP 3 & 4 </h2>
+<h2>Let's build our own On Chip Debugger application - STEP 5 </h2>
 
 Here the source codes related to the article: https://aurixocd.blogspot.com/2021/04/lets-build-our-own-on-chip-debugger_28.html
 
