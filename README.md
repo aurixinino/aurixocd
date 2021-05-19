@@ -8,7 +8,7 @@ For more details visit: https://aurixocd.blogspot.com/
 https://github.com/aurixinino/aurixocd/wiki
 
 ## Download the last version
-To get the latest version, select the xx (where xx is the max number) and download the project ZIP
+To get the latest version, select the AURIX_DEBUG_x (where x is the max number of all sub-directories) and reference to the respectire Readme.md.
 
 ## Disclaimer
 
