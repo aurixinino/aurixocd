@@ -1115,7 +1115,7 @@ void print_CPU_registers(mcd_core_st *core, uint32_t i_core, mcd_return_et ret)
 
 //-------------------------------------------------------------------------------------------------
 // Mnemonic Opcode Identification
-extern void GetInstructionMnemonic(uint32_t uiInstruction);
+extern void GetInstructionMnemonic(uint32_t uiIR, uint32_t uiInstruction);
 
 
 //-------------------------------------------------------------------------------------------------
@@ -1154,11 +1154,10 @@ void Debug_Trace(mcd_core_st *core, uint32_t i_core, mcd_return_et ret)
 
 	// Execute one istruction and Display it
 	ret =  mcd->mcd_step_f(core, FALSE, MCD_CORE_STEP_TYPE_INSTR, 1); 
-	mcdd_handle_err(stdout, &core, ret);
-	printf("PC@0x%8.8X INSTRUCTION 0x%8.8X ", uiIR_before, uiInstruction);
+	mcdd_handle_err(stdout, &core, ret); 
 
 	// Mnemonic decoding
-	GetInstructionMnemonic(uiInstruction);
+	GetInstructionMnemonic(uiIR_before, uiInstruction);
 
 	// show modifications
 	printf("\n modify the following registers:");
