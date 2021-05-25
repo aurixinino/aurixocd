@@ -2,7 +2,7 @@
 
 <h2>Let's build our own On Chip Debugger application - STEP 6 </h2>
 
-Here the source codes related to the article: https://aurixocd.blogspot.com/2021/05/lets-build-our-own-tricore-de-assembler.html
+Here the source codes related to the article: https://aurixocd.blogspot.com/2021/05/lets-build-our-own-tricore-de-assembler.html and https://aurixocd.blogspot.com/2021/05/lets-build-our-own-tricore-de-assembler_25.html
 
 <h3> Tool Interactive User Interface </h3>
 
